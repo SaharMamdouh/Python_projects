@@ -78,5 +78,5 @@ for i in input_string :
         sum_digit += 1
     elif  i.isalpha():
         sum_char += 1
-print("number of digits is ",  sum_digit)
-print("number of chars is ",  sum_char)
+print("number of digits is ", sum_digit)
+print("number of chars is ", sum_char)
